@@ -1,0 +1,26 @@
+body {
+  background-color: #253648;
+  overflow-x: hidden;
+
+}
+
+.slide-content {
+  display: flex;
+  flex-wrap: nowrap;
+  gap: 20px;
+  margin: 20px 0;
+}
+
+
+.space {
+  min-height: 500px;
+}
+
+.slider-horizontal {
+  transform:rotate(-6deg)
+}
+
+.slider-wrapper {
+  margin-left: -800px
+}
+
